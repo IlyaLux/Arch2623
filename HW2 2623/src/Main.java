@@ -47,7 +47,7 @@ public class Main{
 
         Random random = ThreadLocalRandom.current();
 
-        for (int i = 0; i < 100; i++) {
+        for (int i = 0; i < 500; i++) {
             int rnd = random.nextInt(64);
             if (rnd < 60) itemGeneratorList.get(random.nextInt(2,8)).openReward();
             else if (rnd > 59 && rnd < 63) {
