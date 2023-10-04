@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ModelStore implements IModelChanger{
-    public ModelStore(IModelChangedObserver[] changeObservers) {
+    public ModelStore(IModelChangedObserver[] changeObservers) throws Exception {
         this.changeObservers = changeObservers;
         this.models = new ArrayList<>();
         this.scenes = new ArrayList<>();
