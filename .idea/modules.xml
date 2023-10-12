@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/11. Architecture.iml" filepath="$PROJECT_DIR$/.idea/11. Architecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW3 2623/Classes.iml" filepath="$PROJECT_DIR$/HW3 2623/Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW1 2623/HW1 2623.iml" filepath="$PROJECT_DIR$/HW1 2623/HW1 2623.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW2 2623/HW2 2623.iml" filepath="$PROJECT_DIR$/HW2 2623/HW2 2623.iml" />
+    </modules>
+  </component>
+</project>
